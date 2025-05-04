@@ -1,0 +1,17 @@
+{
+    "name": "baikov/work12",
+    "type": "work12",
+    "autoload": {
+        "psr-4": {
+            "Baikov\\Work12\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivan"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^12.1"
+    }
+}
